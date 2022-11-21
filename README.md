@@ -13,9 +13,6 @@ Analysis 모듈은 Setting에서 산출된 Shap vlaue의 평균과 표준편차�
 
 ### Decision Tree ###
 """
-
-
-
-
-
+Decision Tree로 시각화하여 각 라벨이 산출된 원인을 제공하고 Rule , Acc, Cob 등이 산출되어 Exaplainable을 제공 받을 수 있음  
+첨부된 코드는 4가지 network에서 발생하는 공격을 탐지하고 그 원인을 제공하는 예시의 Decision Tree code 임
 """
